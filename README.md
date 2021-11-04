@@ -4,4 +4,4 @@ Requisitos:
 ter o composer instalado e o php na versão >= 7.2
 
 
-## Exemplo de consulta em PHP.
+## Exemplo para consulta cep.
