@@ -1,0 +1,28 @@
+{
+    "name": "carlos/digitalcep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Carlos\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Wagner",
+            "email": "wagner30023@gmail.com"
+        }
+    ],
+    "require": {
+        "PHP": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "carlos\\DigitalCep\\":"src/"
+        }
+    }
+}
